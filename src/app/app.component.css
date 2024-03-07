@@ -1,0 +1,12 @@
+.soldout {
+    text-decoration: line-through;
+}
+
+th {
+    text-decoration: underline;
+}
+
+td {
+    padding: 5px;
+}
+
